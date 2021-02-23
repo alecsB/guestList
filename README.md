@@ -5,7 +5,7 @@
    This program allows the user to choose the number of seats that will be available for the event and can store guests by their name, last name, email and phone.
    If the number of available spots is 0 this means the guestList is full and the following guests that want to attend the event will be automatically registered in order in    the waitingList untill this list is full too.
    As a help for the user the application offers a menu with all his available functions and a little documentation for an much easier understanding of what each function does.
-   ******************************************************************************************************************************************************************************/
+   *******************************************************************************************************************************************************/
    
   The program has 3 classes: Guest, GuestList, Test.
            
